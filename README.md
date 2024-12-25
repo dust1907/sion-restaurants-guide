@@ -2,7 +2,7 @@
 
 Une application web moderne présentant une sélection des meilleurs restaurants de Sion, Valais, Suisse.
 
-## 🍽️ Fonctionnalités
+## Fonctionnalités
 
 - Liste curatée des 5 meilleurs restaurants
 - Notes et avis clients
@@ -10,25 +10,25 @@ Une application web moderne présentant une sélection des meilleurs restaurants
 - Interface moderne et responsive
 - Design épuré et élégant
 
-## 🚀 Prochaines évolutions
+## Prochaines évolutions
 
-- [ ] Photos des restaurants
-- [ ] Carte interactive
-- [ ] Menus des restaurants
-- [ ] Section avis clients étendue
-- [ ] Filtres par type de cuisine
+- Photos des restaurants
+- Carte interactive
+- Menus des restaurants
+- Section avis clients étendue
+- Filtres par type de cuisine
 
-## 🛠️ Technologies
+## Technologies
 
 - React
 - Tailwind CSS
 - Lucide Icons
 - Shadcn/ui Components
 
-## 📞 Contact
+## Contact
 
 Pour toute suggestion ou collaboration, n'hésitez pas à ouvrir une issue ou à soumettre une pull request.
 
-## 📝 Licence
+## Licence
 
 MIT License - Voir le fichier LICENSE pour plus de détails.
